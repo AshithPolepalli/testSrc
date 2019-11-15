@@ -1,4 +1,4 @@
-echo -e "list of files in volume:"
+echo -e "list of files in volume :"
 ls -al ./volume/
 echo -e "\n\n"
 chown root /dev/core
